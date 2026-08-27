@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "name": "MargPOS Desktop",
   "releaseDate": "2026-08-27",
-  "releaseNotes": "MargPOS Desktop v1.2.0 — Universal Barcode & QR Code Scanning (EAN-13, UPC, Code128, QR Codes), Camera & USB Scanner support in Purchase Entry (F6) & POS Billing (F2), and On-The-Fly New Product Registration.",
+  "releaseNotes": "MargPOS Desktop v1.2.1 — Fast Scanner Beep Optimization, Enhanced Thermal Receipt Alignment, and UI Performance Boost.",
   "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/latest"
 }
