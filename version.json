@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "name": "MargPOS Desktop",
-  "releaseDate": "2026-08-25",
-  "releaseNotes": "MargPOS Desktop v1.1.0 â€” Sales Return & Purchase Return Module, Offline Credit Notes & Debit Notes, Real-Time Stock & Ledger Adjustments.",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-New/releases/latest"
+  "releaseDate": "2026-08-27",
+  "releaseNotes": "MargPOS Desktop v1.2.0 — Universal Barcode & QR Code Scanning (EAN-13, UPC, Code128, QR Codes), Camera & USB Scanner support in Purchase Entry (F6) & POS Billing (F2), and On-The-Fly New Product Registration.",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/latest"
 }
