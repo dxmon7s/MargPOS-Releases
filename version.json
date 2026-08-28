@@ -1,6 +1,6 @@
 {
-  "version": "1.7.5",
-  "releaseDate": "2026-08-28T15:58:01.293Z",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.7.5/MargPOS.Desktop.Setup.1.7.5.exe",
-  "releaseNotes": "MargPOS Desktop v1.7.5: Fix State selection priority in GST reports header and ensure exact symmetric CGST/SGST tax calculations."
+  "version": "1.7.6",
+  "releaseDate": "2026-08-28T16:21:21.733Z",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.7.6/MargPOS.Desktop.Setup.1.7.6.exe",
+  "releaseNotes": "MargPOS Desktop v1.7.6: 3-Tier Pricing (Purchase Price, MRP, Selling Price), Automatic Customer MRP Savings on Invoices/Receipts & Hardware Barcode Gun Machine Integration."
 }
