@@ -1,7 +1,7 @@
 {
-  "version": "1.4.9",
+  "version": "1.5.0",
   "releaseDate": "2026-08-28",
-  "releaseNotes": "Fixed PIN entry premature auto-submit: allows full 4, 5, or 6 digit PIN entry on physical keyboard and onscreen keypad, auto-submits only at maximum length (6 digits) or on Enter key press.",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.4.9/MargPOS.Desktop.Setup.1.4.9.exe",
+  "releaseNotes": "Fixed data isolation on fresh installations: removed hardcoded shop default in App.tsx state, completely redesigned Dashboard hero welcome banner with dynamic greetings and quick actions.",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.5.0/MargPOS.Desktop.Setup.1.5.0.exe",
   "mandatory": false
 }
