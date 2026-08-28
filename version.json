@@ -1,6 +1,6 @@
 {
-  "version": "1.7.7",
-  "releaseDate": "2026-08-28T16:35:13.395Z",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.7.7/MargPOS.Desktop.Setup.1.7.7.exe",
-  "releaseNotes": "MargPOS Desktop v1.7.7: Fix Invoice and Credit Note sequence number collision handling."
+  "version": "1.7.8",
+  "releaseDate": "2026-08-28T16:38:57.663Z",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.7.8/MargPOS.Desktop.Setup.1.7.8.exe",
+  "releaseNotes": "MargPOS Desktop v1.7.8: Fix ReferenceError itemIsInc in database createSale handler."
 }
