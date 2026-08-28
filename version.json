@@ -1,7 +1,7 @@
 {
-  "version": "1.4.8",
+  "version": "1.4.9",
   "releaseDate": "2026-08-28",
-  "releaseNotes": "Fixed data isolation on fresh installations: eliminated hardcoded sample product/customer test seeds so fresh machines start 100% clean with First-Launch Master Owner & Store Setup.",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.4.8/MargPOS.Desktop.Setup.1.4.8.exe",
+  "releaseNotes": "Fixed PIN entry premature auto-submit: allows full 4, 5, or 6 digit PIN entry on physical keyboard and onscreen keypad, auto-submits only at maximum length (6 digits) or on Enter key press.",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.4.9/MargPOS.Desktop.Setup.1.4.9.exe",
   "mandatory": false
 }
