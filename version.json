@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "releaseDate": "2026-08-28",
-  "releaseNotes": "Offline PIN-based multi-user staff/cashier login system with role-based access control, cashier attribution on invoices, and Owner-only user management.",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.4.0/MargPOS.Desktop.Setup.1.4.0.exe",
+  "releaseNotes": "Fixed blank screen startup issue by restoring React runtime imports, hardening PIN auth initialization, and adding top-level ErrorBoundary with F12 DevTools inspect.",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.4.1/MargPOS.Desktop.Setup.1.4.1.exe",
   "mandatory": false
 }
