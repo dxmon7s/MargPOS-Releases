@@ -1,6 +1,6 @@
 {
-  "version": "1.6.1",
-  "releaseDate": "2026-08-28T15:02:12.074Z",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.6.1/MargPOS.Desktop.Setup.1.6.1.exe",
-  "releaseNotes": "MargPOS Desktop v1.6.1: Clean, balanced Hero Banner layout with top eyebrow status pills, elegant bold greeting headline, and quick action POS buttons."
+  "version": "1.6.2",
+  "releaseDate": "2026-08-28T15:06:26.817Z",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.6.2/MargPOS.Desktop.Setup.1.6.2.exe",
+  "releaseNotes": "MargPOS Desktop v1.6.2: Added cache-busting and robust semver comparison for instant 1-click updates in Settings."
 }
