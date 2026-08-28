@@ -1,6 +1,6 @@
 {
-  "version": "1.7.6",
-  "releaseDate": "2026-08-28T16:21:21.733Z",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.7.6/MargPOS.Desktop.Setup.1.7.6.exe",
-  "releaseNotes": "MargPOS Desktop v1.7.6: 3-Tier Pricing (Purchase Price, MRP, Selling Price), Automatic Customer MRP Savings on Invoices/Receipts & Hardware Barcode Gun Machine Integration."
+  "version": "1.7.7",
+  "releaseDate": "2026-08-28T16:35:13.395Z",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.7.7/MargPOS.Desktop.Setup.1.7.7.exe",
+  "releaseNotes": "MargPOS Desktop v1.7.7: Fix Invoice and Credit Note sequence number collision handling."
 }
