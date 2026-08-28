@@ -1,7 +1,7 @@
 {
-  "version": "1.4.4",
+  "version": "1.4.5",
   "releaseDate": "2026-08-28",
-  "releaseNotes": "Complete UI/UX redesign & design system standardization: semantic color palette, Inter & mono typography, universal responsive layout (1280x720 to 1920x1080+), redesigned top navigation with unclipped controls, responsive POS product catalog, customer Khata ledger, and modern financial reporting tables.",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.4.4/MargPOS.Desktop.Setup.1.4.4.exe",
+  "releaseNotes": "Fixed navbar Settings gear icon cutoff across all display resolutions (1024x768 to 1920x1080) and Windows DPI scaling levels with responsive compact button dimensions and guaranteed right-side padding.",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.4.5/MargPOS.Desktop.Setup.1.4.5.exe",
   "mandatory": false
 }
