@@ -1,7 +1,7 @@
 {
-  "version": "1.4.2",
+  "version": "1.4.3",
   "releaseDate": "2026-08-28",
-  "releaseNotes": "Spacious & modern top navigation header: expanded button padding, comfortable horizontal gaps, refined Owner/Staff profile pill, sleek Lock Terminal button, and unified Settings controls.",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.4.2/MargPOS.Desktop.Setup.1.4.2.exe",
+  "releaseNotes": "Fixed Dashboard/POS runtime User reference error and resolved top navbar layout clipping to ensure all links (Dashboard, POS, Sales, Inventory, Customers, GST) render clearly without horizontal cutoff.",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.4.3/MargPOS.Desktop.Setup.1.4.3.exe",
   "mandatory": false
 }
