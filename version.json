@@ -1,6 +1,6 @@
 {
-  "version": "1.5.9",
-  "releaseDate": "2026-08-28T14:51:06.588Z",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.5.9/MargPOS.Desktop.Setup.1.5.9.exe",
-  "releaseNotes": "MargPOS Desktop v1.5.9: Fix license state ReferenceError and blank screen on startup."
+  "version": "1.6.0",
+  "releaseDate": "2026-08-28T14:56:08.727Z",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.6.0/MargPOS.Desktop.Setup.1.6.0.exe",
+  "releaseNotes": "MargPOS Desktop v1.6.0: Prominent Top-Level Greeting Headline with dynamic Owner & Shop Name on Dashboard Hero Banner."
 }
