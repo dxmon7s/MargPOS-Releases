@@ -1,6 +1,6 @@
 {
-  "version": "1.7.4",
-  "releaseDate": "2026-08-28T15:50:32.115Z",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.7.4/MargPOS.Desktop.Setup.1.7.4.exe",
-  "releaseNotes": "MargPOS Desktop v1.7.4: Guaranteed non-shrinking 3D elevated status bar with shrink-0, min-h-[64px], and full horizontal flex width."
+  "version": "1.7.5",
+  "releaseDate": "2026-08-28T15:58:01.293Z",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.7.5/MargPOS.Desktop.Setup.1.7.5.exe",
+  "releaseNotes": "MargPOS Desktop v1.7.5: Fix State selection priority in GST reports header and ensure exact symmetric CGST/SGST tax calculations."
 }
