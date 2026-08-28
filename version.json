@@ -1,7 +1,7 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "releaseDate": "2026-08-28",
-  "releaseNotes": "Fixed blank screen startup issue by restoring React runtime imports, hardening PIN auth initialization, and adding top-level ErrorBoundary with F12 DevTools inspect.",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.4.1/MargPOS.Desktop.Setup.1.4.1.exe",
+  "releaseNotes": "Spacious & modern top navigation header: expanded button padding, comfortable horizontal gaps, refined Owner/Staff profile pill, sleek Lock Terminal button, and unified Settings controls.",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.4.2/MargPOS.Desktop.Setup.1.4.2.exe",
   "mandatory": false
 }
