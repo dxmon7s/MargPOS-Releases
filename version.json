@@ -1,7 +1,7 @@
 {
-  "version": "1.4.5",
+  "version": "1.4.6",
   "releaseDate": "2026-08-28",
-  "releaseNotes": "Fixed navbar Settings gear icon cutoff across all display resolutions (1024x768 to 1920x1080) and Windows DPI scaling levels with responsive compact button dimensions and guaranteed right-side padding.",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.4.5/MargPOS.Desktop.Setup.1.4.5.exe",
+  "releaseNotes": "Fixed Camera Barcode & QR Code scanner callback execution, enhanced universal EAN/UPC/Code128 barcode recognition, auto-normalization of leading zeros, and instant product matching to cart and search fields.",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.4.6/MargPOS.Desktop.Setup.1.4.6.exe",
   "mandatory": false
 }
