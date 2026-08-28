@@ -1,6 +1,6 @@
 {
-  "version": "1.5.7",
-  "releaseDate": "2026-08-28T14:36:24.628Z",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.5.7/MargPOS.Desktop.Setup.1.5.7.exe",
-  "releaseNotes": "MargPOS Desktop v1.5.7: Fix startup ReferenceError crash and blank white screen issue."
+  "version": "1.5.8",
+  "releaseDate": "2026-08-28T14:44:53.129Z",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.5.8/MargPOS.Desktop.Setup.1.5.8.exe",
+  "releaseNotes": "MargPOS Desktop v1.5.8: Fix session check, prevent blank screen, and auto-load owner dashboard immediately on launch."
 }
