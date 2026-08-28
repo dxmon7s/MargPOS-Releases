@@ -1,7 +1,7 @@
 {
-  "version": "1.4.3",
+  "version": "1.4.4",
   "releaseDate": "2026-08-28",
-  "releaseNotes": "Fixed Dashboard/POS runtime User reference error and resolved top navbar layout clipping to ensure all links (Dashboard, POS, Sales, Inventory, Customers, GST) render clearly without horizontal cutoff.",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.4.3/MargPOS.Desktop.Setup.1.4.3.exe",
+  "releaseNotes": "Complete UI/UX redesign & design system standardization: semantic color palette, Inter & mono typography, universal responsive layout (1280x720 to 1920x1080+), redesigned top navigation with unclipped controls, responsive POS product catalog, customer Khata ledger, and modern financial reporting tables.",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.4.4/MargPOS.Desktop.Setup.1.4.4.exe",
   "mandatory": false
 }
