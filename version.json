@@ -1,6 +1,6 @@
 {
-  "version": "1.6.2",
-  "releaseDate": "2026-08-28T15:06:26.817Z",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.6.2/MargPOS.Desktop.Setup.1.6.2.exe",
-  "releaseNotes": "MargPOS Desktop v1.6.2: Added cache-busting and robust semver comparison for instant 1-click updates in Settings."
+  "version": "1.7.0",
+  "releaseDate": "2026-08-28T15:15:20.696Z",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.7.0/MargPOS.Desktop.Setup.1.7.0.exe",
+  "releaseNotes": "MargPOS Desktop v1.7.0: Complete 3D Elevated Hero Banner Redesign with multi-layer gradients, embossed floating badges, watermark branding, and responsive layout across all window resolutions."
 }
