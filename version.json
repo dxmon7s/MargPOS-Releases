@@ -1,6 +1,6 @@
 {
-  "version": "1.5.5",
-  "releaseDate": "2026-08-28T14:20:41.106Z",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.5.5/MargPOS.Desktop.Setup.1.5.5.exe",
-  "releaseNotes": "MargPOS Desktop v1.5.5: Fix Shop State dynamic resolution from GSTIN and Settings persistence across CSV export, Print reports, and GST Filing screen."
+  "version": "1.5.6",
+  "releaseDate": "2026-08-28T14:28:12.257Z",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.5.6/MargPOS.Desktop.Setup.1.5.6.exe",
+  "releaseNotes": "MargPOS Desktop v1.5.6: Robust Dashboard Hero Banner with dynamic User Name, Shop Name, and fallback greeting resolution."
 }
