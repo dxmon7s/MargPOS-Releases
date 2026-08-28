@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "releaseDate": "2026-08-28",
-  "releaseNotes": "Fixed data isolation on fresh installations: removed hardcoded shop default in App.tsx state, completely redesigned Dashboard hero welcome banner with dynamic greetings and quick actions.",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.5.0/MargPOS.Desktop.Setup.1.5.0.exe",
+  "releaseNotes": "Redesigned Dashboard Hero Welcome Banner: dynamic live store name from SQLite settings with multi-color gradient typography, live date & ticking clock, responsive wrapping, and quick actions.",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.5.1/MargPOS.Desktop.Setup.1.5.1.exe",
   "mandatory": false
 }
