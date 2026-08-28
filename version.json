@@ -1,7 +1,6 @@
 {
-  "version": "1.5.1",
-  "releaseDate": "2026-08-28",
-  "releaseNotes": "Redesigned Dashboard Hero Welcome Banner: dynamic live store name from SQLite settings with multi-color gradient typography, live date & ticking clock, responsive wrapping, and quick actions.",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.5.1/MargPOS.Desktop.Setup.1.5.1.exe",
-  "mandatory": false
+  "version": "1.5.2",
+  "releaseDate": "2026-08-28T13:36:29.139Z",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.5.2/MargPOS.Desktop.Setup.1.5.2.exe",
+  "releaseNotes": "MargPOS Desktop v1.5.2: Complete GST Calculation System Overhaul, Intra-State (CGST+SGST) vs Inter-State (IGST) split, Inclusive/Exclusive Pricing, GSTR-1 Outward Supplies, and HSN Table 12 Reporting."
 }
