@@ -1,6 +1,6 @@
 {
-  "version": "1.5.4",
-  "releaseDate": "2026-08-28T13:59:35.742Z",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.5.4/MargPOS.Desktop.Setup.1.5.4.exe",
-  "releaseNotes": "MargPOS Desktop v1.5.4: Clean Professional A4 Print Engine for GST Reports (hiding navigation bar, app footers, buttons & tabs, rendering official store header, verification declaration, and complete tax tables)."
+  "version": "1.5.5",
+  "releaseDate": "2026-08-28T14:20:41.106Z",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.5.5/MargPOS.Desktop.Setup.1.5.5.exe",
+  "releaseNotes": "MargPOS Desktop v1.5.5: Fix Shop State dynamic resolution from GSTIN and Settings persistence across CSV export, Print reports, and GST Filing screen."
 }
