@@ -1,7 +1,7 @@
 {
-  "version": "1.4.6",
+  "version": "1.4.7",
   "releaseDate": "2026-08-28",
-  "releaseNotes": "Fixed Camera Barcode & QR Code scanner callback execution, enhanced universal EAN/UPC/Code128 barcode recognition, auto-normalization of leading zeros, and instant product matching to cart and search fields.",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.4.6/MargPOS.Desktop.Setup.1.4.6.exe",
+  "releaseNotes": "Fixed in-app update installer API (exposed installUpdate and installUpdateNow in preload and IPC handlers), complete UI/UX modern redesign, unclipped navbar, and full camera barcode/QR scanner integration.",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.4.7/MargPOS.Desktop.Setup.1.4.7.exe",
   "mandatory": false
 }
