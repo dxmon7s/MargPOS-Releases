@@ -1,6 +1,6 @@
 {
-  "version": "1.7.9",
-  "releaseDate": "2026-08-28T16:43:34.374Z",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.7.9/MargPOS.Desktop.Setup.1.7.9.exe",
-  "releaseNotes": "MargPOS Desktop v1.7.9: Fully verified and robust database schema with complete MRP support across all tables and collision-proof billing."
+  "version": "1.8.0",
+  "releaseDate": "2026-08-29T10:23:59.534Z",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.8.0/MargPOS.Desktop.Setup.1.8.0.exe",
+  "releaseNotes": "MargPOS Desktop v1.8.0: Added complete GST Composition Scheme / Bill of Supply support (zero tax collected, mandatory statutory disclaimer on Thermal and A4 invoices, Section 10 inter-state sale warning, and CMP-08 quarterly turnover tax calculation)."
 }
