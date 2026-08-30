@@ -1,6 +1,6 @@
 {
-  "version": "1.8.1",
-  "releaseDate": "2026-08-29T11:24:03.570Z",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.8.1/MargPOS.Desktop.Setup.1.8.1.exe",
-  "releaseNotes": "MargPOS Desktop v1.8.1: Complete Barcode Sticker & Label Printing Overhaul (fixed props passing, exact millimeter @page layouts for A4 40/24/65 sticker sheets & Thermal 50x25/50x38/40x30/100x50/2-up rolls, live catalog search/add, match stock quantities, and 100% isolated print stylesheet)."
+  "version": "1.8.2",
+  "releaseDate": "2026-08-30T07:48:39.586Z",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.8.2/MargPOS.Desktop.Setup.1.8.2.exe",
+  "releaseNotes": "MargPOS Desktop v1.8.2: Brand Logo & App Icon Update — New modern app logo and icon branding across Windows installer, desktop shortcuts, taskbar, login screens, navbar, and settings."
 }
