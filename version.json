@@ -1,6 +1,6 @@
 {
-  "version": "1.8.2",
-  "releaseDate": "2026-08-30T07:48:39.586Z",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.8.2/MargPOS.Desktop.Setup.1.8.2.exe",
-  "releaseNotes": "MargPOS Desktop v1.8.2: Brand Logo & App Icon Update — New modern app logo and icon branding across Windows installer, desktop shortcuts, taskbar, login screens, navbar, and settings."
+  "version": "1.8.3",
+  "releaseDate": "2026-09-04T09:28:04.010Z",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.8.3/MargPOS.Desktop.Setup.1.8.3.exe",
+  "releaseNotes": "MargPOS Desktop v1.8.3: Unified Annual License (Rs 4,999/year) with 7-Day Machine-Bound Trial, visual countdown banners, full-screen activation lock upon expiry, and instant in-app updater."
 }
