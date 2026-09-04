@@ -1,6 +1,6 @@
 {
-  "version": "1.9.3",
-  "releaseDate": "2026-09-04T16:25:17.044Z",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.3/MargPOS.Desktop.Setup.1.9.3.exe",
-  "releaseNotes": "MargPOS Desktop v1.9.3: Universal print isolation fix! Credit notes, debit notes, and tax invoices now print completely clean without background screen bleed, dark overlay, or modal headers."
+  "version": "1.9.4",
+  "releaseDate": "2026-09-04",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.4/MargPOS.Desktop.Setup.1.9.4.exe",
+  "releaseNotes": "MargPOS Desktop v1.9.4 — Clean single-page voucher and receipt printing, perfect alignment, zero errors."
 }
