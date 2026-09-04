@@ -1,6 +1,6 @@
 {
-  "version": "1.9.0",
-  "releaseDate": "2026-09-04T15:55:40.764Z",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.0/MargPOS.Desktop.Setup.1.9.0.exe",
-  "releaseNotes": "MargPOS Desktop v1.9.0: Comprehensive full-app visual redesign across all screens! Vibrant category-themed product cards with live stock indicators, modern POS checkout dock, elevated Sales History KPI cards with customer avatar chips, 4-stat inventory metrics, quick action dock on Dashboard, and refined Settings."
+  "version": "1.9.1",
+  "releaseDate": "2026-09-04T16:07:46.173Z",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.1/MargPOS.Desktop.Setup.1.9.1.exe",
+  "releaseNotes": "MargPOS Desktop v1.9.1: Fixed the Settings Screen card collapse bug (Backup & Disaster Recovery and Software Version cards now expand naturally without flex squashing), added 3D tactile elevation (.card-3d and .btn-3d with press feedback), 3D KPI cards on Dashboard, Products, and Sales History, category-accented POS cards, and zero errors."
 }
