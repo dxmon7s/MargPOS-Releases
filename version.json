@@ -1,6 +1,6 @@
 {
   "version": "1.8.6",
-  "releaseDate": "2026-09-04T12:53:01.299Z",
+  "releaseDate": "2026-09-04T12:57:27.626Z",
   "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.8.6/MargPOS.Desktop.Setup.1.8.6.exe",
   "releaseNotes": "MargPOS Desktop v1.8.6: Fix CSS overflow clipping so arrow dropdown menus for Inventory (Products & Stock Purchases) and Finance (GST, Day Book, Expenses, Valuation) pop out and display properly."
 }
