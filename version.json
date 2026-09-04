@@ -1,6 +1,6 @@
 {
-  "version": "1.8.4",
-  "releaseDate": "2026-09-04T12:27:38.556Z",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.8.4/MargPOS.Desktop.Setup.1.8.4.exe",
-  "releaseNotes": "MargPOS Desktop v1.8.4: Trial Period Fix (Strictly 7 Days from first launch with auto-migration) & Responsive Top Navigation Bar (Protected logo, zero overlapping, and adaptive More dropdown)."
+  "version": "1.8.5",
+  "releaseDate": "2026-09-04T12:45:53.111Z",
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.8.5/MargPOS.Desktop.Setup.1.8.5.exe",
+  "releaseNotes": "MargPOS Desktop v1.8.5: Direct navigation for Inventory & Finance, always-visible Customers ledger, and a dedicated Software Updates modal next to Settings with one-click download."
 }
