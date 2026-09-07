@@ -1,6 +1,6 @@
 {
-  "version": "1.9.6",
+  "version": "1.9.7",
   "releaseDate": "2026-09-07",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.6/MargPOS.Desktop.Setup.1.9.6.exe",
-  "releaseNotes": "MargPOS Desktop v1.9.6 — Grand Total Discount Calculation Fix, Custom Shop Name on Invoices, POS Billing Input Reliability, Automated Udhaar Khata Credit Tracking, and Interactive Info Tooltips."
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.7/MargPOS.Desktop.Setup.1.9.7.exe",
+  "releaseNotes": "MargPOS Desktop v1.9.7 — Khata Double-Payment Bug Fix, Synchronous Submission Locks, Backend Debouncing, Mathematical Balance Reconciliation, and Delete Payment Entries Support."
 }
