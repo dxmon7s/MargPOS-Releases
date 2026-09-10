@@ -1,6 +1,6 @@
 {
-  "version": "1.9.8",
+  "version": "1.9.9",
   "releaseDate": "2026-09-10",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.8/MargPOS.Desktop.Setup.1.9.8.exe",
-  "releaseNotes": "MargPOS Desktop v1.9.8 — Configurable Invoice GST Display Style (Simple combined GST% vs Detailed CGST+SGST breakdown across Thermal, A4, and WhatsApp bills) with Composition Scheme support and zero accounting impact."
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.9/MargPOS.Desktop.Setup.1.9.9.exe",
+  "releaseNotes": "MargPOS Desktop v1.9.9 — Inward Purchase Stock-In with Case Size multiplier, Free Quantity schemes, 3 Stacked Cascading Discounts, Round Off adjustment, and Weighted-Average Costing."
 }
