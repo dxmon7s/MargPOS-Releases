@@ -1,6 +1,6 @@
 {
-  "version": "1.9.10",
+  "version": "1.9.11",
   "releaseDate": "2026-09-10",
-  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.10/MargPOS.Desktop.Setup.1.9.10.exe",
-  "releaseNotes": "MargPOS Desktop v1.9.10 — Dedicated Discount % input in Inward Purchase modal (positioned right next to Qty & Rate) and Quick Product Creator panel, feeding directly into Discounts Saved and Taxable Value."
+  "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.11/MargPOS.Desktop.Setup.1.9.11.exe",
+  "releaseNotes": "MargPOS Desktop v1.9.11 — Wholesale & GST capabilities in Product / Item Master (HSN, Brand Name, MFR Code, Case Size) and Inward Purchase (Inter-State IGST vs Intra-State CGST+SGST, Supplier State extraction, Free Qty & Trade Discounts)."
 }
