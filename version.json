@@ -2,5 +2,5 @@
   "version": "1.9.11",
   "releaseDate": "2026-09-10",
   "downloadUrl": "https://github.com/dxmon7s/MargPOS-Releases/releases/download/v1.9.11/MargPOS.Desktop.Setup.1.9.11.exe",
-  "releaseNotes": "MargPOS Desktop v1.9.11 — Wholesale & GST capabilities in Product / Item Master (HSN, Brand Name, MFR Code, Case Size) and Inward Purchase (Inter-State IGST vs Intra-State CGST+SGST, Supplier State extraction, Free Qty & Trade Discounts)."
+  "releaseNotes": "MargPOS Desktop v1.9.11 — Wholesale & GST Capabilities in Product Master and Inward Purchase (Free Qty, Discount %, Inter-State IGST vs Intra-State CGST+SGST), plus Supplier & Party Master live navigation and vendor balance ledger."
 }
